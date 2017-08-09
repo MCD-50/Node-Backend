@@ -1,0 +1,18 @@
+{
+	"name": "Node-Backend",
+	"description": "Simple and ready to use boilerplate for creating backend in node and react",
+	"repository": "https://www.github.com/mcd-50/Node-Backend",
+	"keywords": [
+		"node",
+		"express",
+		"react",
+		"universal",
+		"javascript"
+	],
+	"env": {
+		"PORT": {
+			"description": "The port where the web server will be running",
+			"value": "3000"
+		}
+	}
+}
